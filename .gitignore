@@ -17,6 +17,14 @@ out
 build
 .gradle
 
+# local build and audit artifacts
+multiversion-builds
+build-*.jar
+build-*.log
+living-*.txt
+.c[l]aude
+资源包
+
 # other
 eclipse
 run
