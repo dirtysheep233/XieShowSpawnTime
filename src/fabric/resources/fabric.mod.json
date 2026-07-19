@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "id": "showspawntime",
+  "id": "xieshowspawntime",
   "version": "${version}",
-  "name": "Show Spawn Time",
-  "description": "Hypixel Zombies spawn timer and QoL HUD for Fabric.",
+  "name": "Xie Show Spawn Time",
+  "description": "a Function Zombies spawn timer and QoL HUD for Fabric.",
   "authors": [
     "SeoSean"
   ],
   "contact": {
-    "sources": "https://github.com/SeoSean/ShowSpawnTime"
+    "sources": "https://github.com/dirtysheep233/ShowSpawnTime"
   },
   "license": "MIT",
   "environment": "client",
