@@ -97,7 +97,6 @@
   "message.showspawntime.update_check_failed": "无法检查更新。",
   "message.showspawntime.cleanup_time": "上一波结束后的清场耗时为%s秒。",
   "message.showspawntime.round_completed": "                 第%1$s回合完成，用时%2$s，击杀：%3$s！",
-  "message.showspawntime.time_record_failed": "无法记录时间，请向Seosean报告此问题。",
   "message.showspawntime.powerup_prediction.now_next": "%1$s：%2$s%3$s",
   "message.showspawntime.powerup_prediction.next": "（下次：第%s回合）",
   "message.showspawntime.powerup_prediction.now": "%1$s：%2$s",

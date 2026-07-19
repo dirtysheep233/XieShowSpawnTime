@@ -97,7 +97,6 @@
   "message.showspawntime.update_check_failed": "Could not check for updates.",
   "message.showspawntime.cleanup_time": "You took %s seconds to clean up after the last wave.",
   "message.showspawntime.round_completed": "                     You completed Round %s in %s!",
-  "message.showspawntime.time_record_failed": "CANNOT RECORD THE TIME, PLEASE REPORT THIS TO Seosean",
   "message.showspawntime.powerup_prediction.now_next": "%1$s %2$s%3$s",
   "message.showspawntime.powerup_prediction.next": "(%s)",
   "message.showspawntime.powerup_prediction.now": "%1$s %2$s",
