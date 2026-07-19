@@ -78,14 +78,6 @@ public final class PowerupManager {
             return;
         }
 
-        if (state.clientTicks() % 5 == 0 && state.isInZombies()) {
-            for (Entity entity : client.world.getEntities()) {
-                if (entity instanceof ArmorStandEntity armorStand && armorStand.hasCustomName()) {
-                    detectArmorStand(armorStand, state);
-                }
-            }
-        }
-
     }
 
     public void onRoundStarted(int round, ZombiesMap map, int gameMilliseconds) {

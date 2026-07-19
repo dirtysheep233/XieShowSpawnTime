@@ -318,8 +318,6 @@ public final class GameState {
         boolean chinese = SstI18n.ZH_CN.equals(SstI18n.language());
         RoundStats roundStats = extractRoundStats(chinese);
         if (roundStats == null) {
-            ShowSpawnTimeClient.sendLocalMessage(
-                    SstI18n.text("message.showspawntime.time_record_failed").formatted(Formatting.RED));
             return;
         }
         MutableText roundMessage;
