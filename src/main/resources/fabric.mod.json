@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "showspawntime",
+  "version": "${version}",
+  "name": "Show Spawn Time",
+  "description": "a Zombies spawn timer and QoL HUD for Fabric.",
+  "authors": ["SeoSean"],
+  "contact": { "sources": "https://github.com/SeoSean/ShowSpawnTime" },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": { "client": ["com.seosean.showspawntime.ShowSpawnTimeClient"] },
+  "mixins": ["showspawntime.mixins.json"],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": ">=${fabric_version}",
+    "minecraft": "${minecraft_constraint}",
+    "java": ">=21"
+  }
+}
