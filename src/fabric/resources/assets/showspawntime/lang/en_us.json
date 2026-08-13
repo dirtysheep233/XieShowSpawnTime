@@ -1,0 +1,22 @@
+{
+"screen.showspawntime.hud_editor.hint":" ",
+"screen.showspawntime.hud_editor.title":"Show Spawn Time HUD Editor",
+"screen.showspawntime.config.title": "Show Spawn Time Configuration",
+"screen.showspawntime.config.hud_positions": "HUD Positions",
+"message.showspawntime.config_tip.config":" CONFIG.",
+"message.showspawntime.config_tip.hud":" [HUD]",
+"message.showspawntime.language_current":"Show Spawn Time language: %s",
+"message.showspawntime.language_set":"Show Spawn Time language set to %s",
+"message.showspawntime.cleanup_time": "You took %s seconds to clean up after the last wave.",
+"hud.showspawntime.second":"s",
+"hud.showspawntime.spawned":"SPAWNED",
+"hud.showspawntime.spawn_time_title":"Spawn Time",
+"hud.showspawntime.giant":"Giant",
+"hud.showspawntime.ghast":"Dropship",
+"hud.showspawntime.terminal":"Terminal",
+"hud.showspawntime.nuclear":"Nuclear Creeper",
+"hud.showspawntime.dhp":"DHP",
+"hud.showspawntime.omegagma": "Omegagma",
+"tooltip.showspawntime.config_tip.hud": "Click to edit HUDs",
+"gui.done":"Done"
+}

@@ -1,0 +1,22 @@
+{
+"screen.showspawntime.hud_editor.hint":" ",
+"screen.showspawntime.hud_editor.title":"ShowSpawnTime HUD 编辑器",
+"screen.showspawntime.config.title": "ShowSpawnTime 配置",
+"screen.showspawntime.config.hud_positions": "HUD位置",
+"message.showspawntime.config_tip.config":"配置.",
+"message.showspawntime.config_tip.hud":" [HUD]",
+"message.showspawntime.language_current":"ShowSpawnTime 当前语言：%s",
+"message.showspawntime.language_set":"ShowSpawnTime 语言已设为%s",
+"message.showspawntime.cleanup_time": "上一波结束后的清场耗时为%s秒。",
+"hud.showspawntime.second":"秒",
+"hud.showspawntime.spawned":"已刷怪",
+"hud.showspawntime.spawn_time_title":"刷怪时间",
+"hud.showspawntime.giant":"巨人",
+"hud.showspawntime.ghast":"爆炸恶魂",
+"hud.showspawntime.terminal":"终端",
+"hud.showspawntime.nuclear":"核子苦力怕",
+"hud.showspawntime.dhp":"大憨批",
+"hud.showspawntime.omegagma": "巨型岩浆怪",
+"tooltip.showspawntime.config_tip.hud": "点击调整HUD位置。",
+"gui.done":"完成"
+}
